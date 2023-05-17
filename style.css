@@ -7,6 +7,10 @@ ul {
     padding: 0;
 }
 
+.completed {
+    text-decoration-line: line-through;
+}
+
 ul li {
     cursor: pointer;
     position: relative;
